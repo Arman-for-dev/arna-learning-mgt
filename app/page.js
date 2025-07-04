@@ -1,5 +1,4 @@
 import Text from "@/components/TextComponent/Text";
-import Image from "next/image";
 
 export default function Home() {
   return (
